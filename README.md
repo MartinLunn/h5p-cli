@@ -1,3 +1,9 @@
+## Martin's edits:
+to run: 
+cd lib ; h5p server
+
+
+
 ## H5P Command Line Interface
 
 A tool that simplifies the development process of [H5P](https://h5p.org) (HTML5 Packages).
